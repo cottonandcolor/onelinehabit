@@ -6,5 +6,9 @@
 	<array>
 		<string>remote-notification</string>
 	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>One Line Habit uses the microphone to let you add habits by voice.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>One Line Habit uses speech recognition to convert your voice into habit names.</string>
 </dict>
 </plist>
