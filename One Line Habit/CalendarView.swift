@@ -16,7 +16,7 @@ struct CalendarView: View {
     @State private var selectedMonth: Date = Date()
     @State private var selectedHabit: Habit?
     
-    private let weekdays = ["S", "M", "T", "W", "T", "F", "S"]
+    private let weekdays = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]
     
     var body: some View {
         NavigationStack {
